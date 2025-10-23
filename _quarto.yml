@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  resources: resume.pdf
+
+website:
+  title: "Austin Zepeda"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.pdf
+        text: Resume
+
+format:
+  html:
+    theme: flatly
+    mainfont: arial
+    css: styles.css
+    toc: true
+
+editor: visual
+

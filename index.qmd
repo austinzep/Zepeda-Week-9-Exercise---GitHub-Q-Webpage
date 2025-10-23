@@ -1,0 +1,17 @@
+---
+title: "Austin Zepeda"
+image: headshot.JPG
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:azepe@uic.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/austinzep
+---
+
+Welcome—thanks for stopping by. **I'm Austin**, a Civic Analytics graduate student at UIC. I enjoy exploring public data to create practical tools. Check out what I've been working on!
