@@ -14,4 +14,4 @@ about:
       href: https://github.com/austinzep
 ---
 
-Welcome—thanks for stopping by. **I'm Austin**, a Civic Analytics graduate student at UIC. I enjoy exploring public data to create practical tools. Check out what I've been working on!
+Welcome—thanks for stopping by. **I'm Austin**, a data-minded public servant. I hold a Master's degree in Civic Analytics from the University of Illinois Chicago and I enjoy creating practical tools from public data. Check out what I've been working on!
